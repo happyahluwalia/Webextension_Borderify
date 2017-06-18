@@ -10,6 +10,7 @@ This extension just includes:
 under "google.com/" or any of its subdomains
 
 The content script draws a border around the document.body.
+It also has an easter egg. Type in "happy" any time and it would give out an alert message.
 
 ## What it shows
 
